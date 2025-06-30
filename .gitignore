@@ -1,0 +1,10 @@
+Server/node_modules/
+Client/Emotional_Chatbot/node_modules/
+
+Client/Emotional_Chatbot/dist/
+
+Client/Emotional_Chatbot/.env
+Client/Emotional_Chatbot/.env.production
+Server/.env
+Server/app.yaml
+tidb_idpassword.txts
